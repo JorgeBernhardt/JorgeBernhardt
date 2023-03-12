@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Microsoft-365-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Microsoft-WindowsServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Microsoft-PowerShell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Hashicorp-Terraform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/RedHat-Ansible-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) 
-### Blog posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Setting Private Endpoint for Azure File Share using Azure PowerShell](https://www.jorgebernhardt.com/private-endpoint-azure-file-share-powershell/)
 - [How to update the tenant ID in an Azure key vault](https://www.jorgebernhardt.com/update-tenant-id-key-vault/)
