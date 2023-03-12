@@ -1,5 +1,3 @@
-[![Header](img/alt%20copy.png)](https://www.jorgebernhardt.com/)
-
 ### Hi there 👋
 My name is Jorge Bernhardt and I'm glad you found me on GitHub!
 <!--
