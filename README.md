@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- Actual text -->
-[![ContentHero](img/content-hero-round.png)](https://enjinx.io/eth/asset/85282728?source=EnjinWallet-1.8.2)
-[![Mentor](img/mentor.png)](https://jumpnet.enjinx.io/eth/asset/68c0000000000062/14?source=EnjinWallet-1.15.0)
 
 Please follow me on [Twitter](https://twitter.com/JorgeBernhardt) and [LinkedIn](https://www.linkedin.com/in/jorgebernhardt/) and support my work. Thank you.
 
