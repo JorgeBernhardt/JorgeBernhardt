@@ -1,5 +1,6 @@
-### Hi there 👋
-My name is Jorge Bernhardt and I'm glad you found me on GitHub!
+### Hi, I'm Jorge 👋
+[![Linkedin Badge](https://img.shields.io/badge/-jorgebernhardt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgebernhardt/)](https://www.linkedin.com/in/jorgebernhardt/)
+[![Twitter Badge](https://img.shields.io/badge/-@jorgebernhardt-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jorgebernhardt)](https://twitter.com/jorgebernhardt)
 <!--
 Here are some ideas to get you started:
 
@@ -12,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🔧 Technologies & Tools
+### Technologies & Tools
 
 ![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Microsoft-365-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Microsoft-WindowsServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Microsoft-PowerShell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Hashicorp-Terraform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/RedHat-Ansible-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) 
 ### Latest Blog Posts
