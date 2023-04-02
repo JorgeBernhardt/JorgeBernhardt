@@ -1,4 +1,4 @@
-![](img/Cover_Github_dark.png)
+![](img/cover_github_noback.png)
 ### Hi there! 👋
 I'm Jorge Bernhardt, a Cloud Architect working for a software consulting company in Spain 🇪🇸. With a specialization in Microsoft technologies, including cloud and data center solutions, I have a strong focus on working with DevOps and Agile methodologies to drive efficient and effective results 📈
 My passion for Infrastructure as Code has led me to work on projects that incorporate these principles, allowing me to stay up-to-date with the latest trends and emerging technologies 🎖 Whether through my work or in my free time, I enjoy sharing my knowledge with others 📢
