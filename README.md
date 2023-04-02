@@ -7,7 +7,7 @@ With a track record of driving quality results for clients, I am excited to cont
 ![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Microsoft-365-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Microsoft-WindowsServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Microsoft-PowerShell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/Hashicorp-Terraform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) ![](https://img.shields.io/badge/RedHat-Ansible-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2EF3BA) 
 
 ### Microsoft Azure Hero Recognitions
-![https://enjinx.io/eth/asset/85282728?source=EnjinWallet-1.8.2](img/content-hero.png) ![https://jumpnet.enjinx.io/eth/asset/68c0000000000062/14?source=EnjinWallet-1.15.0](img/mentor-hero.png)
+![https://enjinx.io/eth/asset/85282728?source=EnjinWallet-1.8.2](img/content-hero.png){:height=36px width=36px"} ![https://jumpnet.enjinx.io/eth/asset/68c0000000000062/14?source=EnjinWallet-1.15.0](img/mentor-hero.png){:height="36px" width="36px"}
 
 ### Latest Blog Posts from [www.jorgebernhardt.com](https://www.jorgebernhardt.com)
 <!-- BLOG-POST-LIST:START -->
