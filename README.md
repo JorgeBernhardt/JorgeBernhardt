@@ -11,13 +11,8 @@ With a track record of driving quality results for clients, I am excited to cont
 ![https://enjinx.io/eth/asset/85282728?source=EnjinWallet-1.8.2](img/content-hero.jpg)
 ![https://jumpnet.enjinx.io/eth/asset/68c0000000000062/14?source=EnjinWallet-1.15.0|50%](img/mentor-hero.jpg)
 
-### Latest Blog Posts from [www.jorgebernhardt.com](https://www.jorgebernhardt.com)
+### Check my last posts on [www.jorgebernhardt.com](https://www.jorgebernhardt.com)
 <!-- BLOG-POST-LIST:START -->
-- [Setting Private Endpoint for Azure File Share using Azure PowerShell](https://www.jorgebernhardt.com/private-endpoint-azure-file-share-powershell/)
-- [How to update the tenant ID in an Azure key vault](https://www.jorgebernhardt.com/update-tenant-id-key-vault/)
-- [Creating Restore Points for Azure VMs using Azure CLI](https://www.jorgebernhardt.com/vm-restore-points-cli/)
-- [Setting Private Endpoint for Azure Key Vault using Azure PowerShell](https://www.jorgebernhardt.com/private-endpoint-azure-key-vault-powershell/)
-- [Setting Private Endpoint for Azure SQL Server using Azure PowerShell](https://www.jorgebernhardt.com/private-endpoints-sql-server-powershell/)
 <!-- BLOG-POST-LIST:END -->
 <!-- Actual text -->
 
