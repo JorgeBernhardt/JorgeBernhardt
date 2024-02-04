@@ -16,5 +16,5 @@ With a track record of driving quality results for clients, I am excited to cont
 <!-- BLOG-POST-LIST:END -->
 <!-- Actual text -->
 
-Please follow me on [![Twitter Badge](https://img.shields.io/badge/-@jorgebernhardt-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jorgebernhardt)](https://twitter.com/jorgebernhardt) and [![Linkedin Badge](https://img.shields.io/badge/-jorgebernhardt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgebernhardt/)](https://www.linkedin.com/in/jorgebernhardt/) and support my work. Thank you.
+Please follow me on [![X (formerly Twitter)](https://img.shields.io/twitter/follow/jorgebernhardt?style=social)](https://twitter.com/jorgebernhardt) and [![Linkedin Badge](https://img.shields.io/badge/-jorgebernhardt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgebernhardt/)](https://www.linkedin.com/in/jorgebernhardt/) and support my work. Thank you.
 
